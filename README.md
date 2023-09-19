@@ -1,1 +1,1 @@
-This is my readme file in the ALX pre-course.
+This is my readme file for the ALX pre-course.
